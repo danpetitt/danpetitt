@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dan Petitt! 👋</h2>
 
-<p><em>Senior Software Engineer at <a href="http://pa.media">PA Media Group</a><img src="https://pa.media/wp-content/themes/pa-site/favicon/favicon-16x16.png" style="width:16px;height:16px;margin-left:.5em">
+<p><em>Senior Software Engineer at <a href="http://pa.media">PA Media Group</a><img src="https://pa.media/wp-content/themes/pa-site/favicon/favicon-16x16.png" style="width:16px;height:16px;padding-left:10px">
 </em></p>
 
 [![Twitter: coderanger](https://img.shields.io/twitter/follow/coderanger?style=social)](https://twitter.com/coderanger)
@@ -8,7 +8,8 @@
 [![GitHub danpetitt](https://img.shields.io/github/followers/danpetitt?label=follow&style=social)](https://github.com/danpetitt)
 
 
-A little more about me...  
+
+**A little more about me...**
 
 ```javascript
 const dan = {
