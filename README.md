@@ -30,12 +30,10 @@ const dan = {
     'Software Engineer'
   ],
   notables: [
-    'Designer and PM for Digita Wordworth for Amiga',
-    'Designer and PM for Digita Datastore for Amiga',
-    'Designer and PM for Digita Organiser for Amiga',
+    'Designer and PM for Digita Wordworth, Datastore and Organiser for Amiga',
     'Lead Designer and PM for Digita Taxability Pro',
     'Lead Designer and PM for Microsoft Money UK 98 and 99',
-    'Lead Designer and PM for Microsoft Taxsaver UK 98',
+    'Lead Designer and PM for Microsoft Taxsaver UK 99',
     'Designer and co-founder for Digiguide.tv',
     'Designer and Primary Developer for Pawa.tv'
   ]
