@@ -5,6 +5,8 @@
 Currently Senior Software Engineer at <a href="http://pa.media">PA Media Group</a> <img src="https://pa.media/wp-content/themes/pa-site/favicon/favicon-16x16.png" style="width:16px;height:16px;">
 
 Co-founder of <a href="http://digiguide.tv">digiguide.tv</a> <img src="https://digiguide.tv/i/favicon.png" style="width:16px;height:16px;"> and primary developer for pawa.tv. 
+  
+You can also find me on <a rel="me" href="https://dotnet.social/@coderanger">Mastodon</a>
 </em>
 </p>
 
