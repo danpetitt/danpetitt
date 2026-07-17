@@ -2,7 +2,7 @@
 
 <p>
 <em>
-Currently Senior Software Engineer at <a href="http://pa.media">PA Media Group</a> <img src="https://pa.media/wp-content/themes/pa-site/favicon/favicon-16x16.png" style="width:16px;height:16px;">
+Currently a hands-on Engineering Manager at <a href="http://pa.media">PA Media Group</a> <img src="https://pa.media/wp-content/themes/pa-site/favicon/favicon-16x16.png" style="width:16px;height:16px;">
 
 Co-founder of <a href="http://digiguide.tv">digiguide.tv</a> <img src="https://digiguide.tv/i/favicon.png" style="width:16px;height:16px;"> and primary developer for pawa.tv. 
   
@@ -10,7 +10,6 @@ You can also find me on <a rel="me" href="https://dotnet.social/@coderanger">Mas
 </em>
 </p>
 
-[![Twitter: coderanger](https://img.shields.io/twitter/follow/coderanger?style=social)](https://twitter.com/coderanger)
 [![Linkedin: danpetitt](https://img.shields.io/badge/-danpetitt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danpetitt/)](https://www.linkedin.com/in/danpetitt/)
 [![GitHub danpetitt](https://img.shields.io/github/followers/danpetitt?label=follow&style=social)](https://github.com/danpetitt)
 
@@ -32,12 +31,12 @@ const dan = {
     'Software Engineer'
   ],
   notables: [
-    'Designer and PM for Digita Wordworth, Datastore and Organiser for Amiga',
-    'Lead Designer and PM for Digita Taxability Pro',
-    'Lead Designer and PM for Microsoft Money UK 98 and 99',
-    'Lead Designer and PM for Microsoft Taxsaver UK 99',
-    'Designer and co-founder for Digiguide.tv',
-    'Designer and Primary Developer for Pawa.tv'
+    'Designer and Project Manager for Digita Wordworth, Datastore and Organiser for Amiga',
+    'Lead Designer and Project Manager for Digita Taxability Pro',
+    'Lead Designer and Project Manager for Microsoft Money UK 98, 99 and 2000',
+    'Lead Designer and Project Manager for Microsoft Taxsaver UK 99',
+    'Designer, Engineer and co-founder for Digiguide.tv',
+    'Designer and Engineer for Pawa.tv'
   ]
 }
 ```
