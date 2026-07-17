@@ -6,12 +6,11 @@ Currently a hands-on Engineering Manager at <a href="http://pa.media">PA Media G
 
 Co-founder of <a href="http://digiguide.tv">digiguide.tv</a> <img src="https://digiguide.tv/i/favicon.png" style="width:16px;height:16px;"> and primary developer for pawa.tv. 
   
-You can also find me on <a rel="me" href="https://dotnet.social/@coderanger">Mastodon</a>
+You can also find me at the following locations:
 </em>
-</p>
 
-[![Linkedin: danpetitt](https://img.shields.io/badge/-danpetitt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danpetitt/)](https://www.linkedin.com/in/danpetitt/)
-[![GitHub danpetitt](https://img.shields.io/github/followers/danpetitt?label=follow&style=social)](https://github.com/danpetitt)
+[![Mastodon: coderanger](https://img.shields.io/mastodon/follow/109336455901888885?domain=dotnet.social&style=social)](https://dotnet.social/@coderanger) &nbsp;&nbsp;&nbsp; [![Linkedin: danpetitt](https://img.shields.io/badge/LinkedIn-danpetitt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danpetitt) &nbsp;&nbsp;&nbsp; [![GitHub danpetitt](https://img.shields.io/github/followers/danpetitt?label=follow&style=social)](https://github.com/danpetitt)
+</p>
 
 
 **A little more about me...**
